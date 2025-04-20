@@ -1,22 +1,11 @@
-# Core framework
 streamlit
-
-# Data manipulation
 pandas
 numpy
-
-# Machine Learning
 scikit-learn
 joblib
-
-# Mapping & visualization
 folium
 streamlit-folium
-
-# Optional: Improves visuals and interactivity
 matplotlib
 seaborn
 plotly
-
-# GeoJSON support (if using spatial data)
 geopandas
