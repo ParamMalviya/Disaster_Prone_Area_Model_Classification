@@ -1,11 +1,5 @@
 streamlit
 pandas
-numpy
-scikit-learn
 joblib
 folium
 streamlit-folium
-matplotlib
-seaborn
-plotly
-geopandas
