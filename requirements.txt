@@ -1,5 +1,9 @@
-joblib
 pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
 folium
 streamlit
-os
+streamlit-folium
+joblib
